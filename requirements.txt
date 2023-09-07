@@ -1,0 +1,7 @@
+ffmpeg
+facenet-pytorch
+torch 
+torchvision
+streamlit 
+opencv-python-headless 
+pyngrok
